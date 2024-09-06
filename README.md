@@ -10,5 +10,5 @@
 - **joiner will take name of the original file as command line arguement**
 
 # After compilation 
-- ./split<filename> <number of parts>
-- ./merge <originalfilename>
+- ./split filename number of parts
+- ./merge originalfilename
