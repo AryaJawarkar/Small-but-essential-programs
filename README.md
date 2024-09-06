@@ -1,9 +1,11 @@
 # Small-but-essential-programs
 
-### compile file splitter
+## FILE SPLITTER AND JOINER
+
+### Compile file splitter
 - gcc file_splitter.c -o split
 
-### compile file joiner
+### Compile file joiner
 - gcc file_joiner.c -o merge
 
 - **splitter will take file and number of parts is to be divided as command line arguement**
