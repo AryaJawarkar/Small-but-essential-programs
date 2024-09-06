@@ -43,5 +43,5 @@ with open(arguements[1],'r') as file:
                     count += 1;
                 if(char == ' '):
                     flag = 0;
-    print(firstname+"\n");
+    print(firstname);
 file.close();
